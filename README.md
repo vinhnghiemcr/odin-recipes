@@ -1,1 +1,3 @@
 # odin-recipes
+Odin Recipes is website which includes multiple recipes for dirreent dishes!
+It's also my personal project to prectice skill with html, git, and GitHub. There are some skills I wlould like to demonstrate like creating a html file, adding elements (html, head, body, paragraphs, strong, em, anchor, images, absolute and relative links). I will add and comit reveral time before push to GitHub.
