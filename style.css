@@ -1,0 +1,26 @@
+#recipe-head {
+    color: rgb(172, 29, 141);
+    text-align: center;
+    font-size: 38px;
+}
+img {
+    display: block;
+    width: 800px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: rgb(200, 100, 200);
+
+}
+#lasagna {
+    color: orange;
+}
+#pho {
+    color: blueviolet;
+}
+#banh-mi {
+    color: brown;
+}
